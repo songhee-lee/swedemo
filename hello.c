@@ -1,5 +1,7 @@
 #include <stdio.h>
 
-printf("Hellow~");
+/* test */
+
+printf("<h1>Hellow~</h1>\n");
 
 return 0
