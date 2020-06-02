@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* test */
+/* test 2 */
 
 printf("<h1>Hellow~</h1>\n");
 
