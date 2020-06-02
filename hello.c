@@ -2,6 +2,8 @@
 
 /* test build 1 */
 
-printf("<h1>Hellow~</h1>\n");
+int main(){
+  printf("<h1>Hellow~</h1>\n");
 
-return 0;
+  return 0;
+}
