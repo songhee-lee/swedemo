@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* check webhook */
+/* check github webhook */
 
 int main(){
   printf("<h1>Hellow~</h1>\n");
